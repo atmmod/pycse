@@ -1,4 +1,4 @@
-OK_FORMAT = True
+OK_FORMAT = False
 
 name = "ex4a"
 points = 10
