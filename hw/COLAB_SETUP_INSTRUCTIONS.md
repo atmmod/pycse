@@ -25,11 +25,9 @@ My Drive/
               ├── ex1a.py
               ├── ex1b.py
               ├── ex2a.py
-              ├── ex2b.py
               ├── ex3a.py
               ├── ex3b.py
-              ├── ex4a.py
-              └── ex4b.py
+              └── ex4a.py
 ```
 
 ### 2. Open the Notebook in Google Colab
@@ -77,9 +75,10 @@ Now you can work through the exercises! After completing each exercise:
 When you've completed all exercises:
 
 1. Scroll to the bottom of the notebook
-2. Run the final submission cell
-3. Download the generated zip file
-4. Submit the zip file according to your instructor's instructions
+2. Run the cell below to check for completion of the autograded portions.
+3. Choose File > Save the file in Drive.
+4. Choose File > Download > Download .ipynb
+5. Upload the .ipynb file to the Gradescope assignment.
 
 ## Troubleshooting
 
