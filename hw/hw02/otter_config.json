@@ -1,17 +1,18 @@
 {
-  "notebook": "*.ipynb",
-  "save_environment": false,
+  "notebook": "hw02_integration_and_odes_sol.ipynb",
+  "save_environment": true,
   "ignore_modules": [],
   "variables": {},
   "show_question_points": true,
   "seed": null,
   "runs_on": "gradescope",
-  "generate": false,
+  "generate": true,
   "points_possible": 100,
   "show_stdout": true,
   "show_hidden": true,
   "pdf": false,
-  "filtering": true,
+  "filtering": false,
   "pagebreaks": true,
-  "zips": false
+  "zips": false,
+  "assignment_name": "hw02_integration_and_odes"
 }
