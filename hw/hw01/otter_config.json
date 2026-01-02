@@ -1,0 +1,17 @@
+{
+  "notebook": "*.ipynb",
+  "save_environment": true,
+  "ignore_modules": [],
+  "variables": {},
+  "show_question_points": true,
+  "seed": null,
+  "runs_on": "gradescope",
+  "generate": false,
+  "points_possible": 100,
+  "show_stdout": true,
+  "show_hidden": true,
+  "pdf": false,
+  "filtering": false,
+  "pagebreaks": true,
+  "zips": false
+}
